@@ -18,6 +18,7 @@ export default function VerticalCard({ data, type }) {
     console.log("addToWishlist", data);
     addToWishlist(data);
   };
+  // 
   const removeWishlist = (id) => {
     console.log("removeFromWishlist", id);
     removeFromWishlist(id);
