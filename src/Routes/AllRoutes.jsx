@@ -13,7 +13,7 @@ import Paymentpage from "../Component/Paymentpage";
 import CardDetails from "../Component/CardDetails";
 import WishList from "../Component/WishList";
 import RegionalLanguage from "../Component/Navbar/RegionalLanguage";
-// 
+
 import Channel from "../Component/Navbar/Channel";
 import Profile from "../Component/Profile";
 import AccountSetting from "../Component/AccountSetting";
